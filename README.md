@@ -1,2 +1,2 @@
 # odin-recipes
-In this current project, I am created a website that has links to a few basic recipes. Once I finish this project, the skills I will demonstrate are...
+In this current project, I am created a website that has links to a few basic recipes. The skills I demostrated with this project are using git commands such as git add, git commit and git push. I learned how to use relative and absolute linking to be able to navigate between different pages. I learned how to make unordered and ordered list. I learned how make short and concise git commit messages.  
